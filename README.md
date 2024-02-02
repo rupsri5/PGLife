@@ -1,2 +1,2 @@
 # PGLife
- Responsive PHP Website
+PG Life is a Full-Stack Web Application. Technology Used: HTML, CSS, Bootstrap 5, Javascript, PHP, MySQL. It shows the list of all the PGs and their main specifications. User can select the city or search on search bar. Filter bar, using which user can sort PGs according to rent and rating User can add selected PG in favorite list Entire Web page can be viewed without logging in for users and only certain features such as Dashboard and marking favorites are available upon login in.
