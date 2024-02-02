@@ -8,6 +8,7 @@ session_start();
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Welcome | PG Life</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
     <?php
     include "includes/head_links.php";
